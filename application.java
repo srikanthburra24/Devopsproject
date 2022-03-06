@@ -13,14 +13,8 @@
     }  
     System.out.println("The reverse of the given number is: " + reverse);  
 
-      {
-        {
-
-  
-
-
-	    class Simple{  
-        public static void main(String args[]){  
-         System.out.println("Hello Java");  
-        }  
-    } 
+      #new change by srikanth sample.java file adding to this location
+     class A{  
+    static public void main(String... args){  
+    }  
+    

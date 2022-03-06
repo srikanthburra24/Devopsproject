@@ -12,14 +12,5 @@
     number = number/10;  
     }  
     System.out.println("The reverse of the given number is: " + reverse);  
-    }
-
-    #new changes by developer srikanth  
-
-
-	    class Simple{  
-        public static void main(String args[]){  
-         System.out.println("Hello Java");  
-        }  
     }  
     }  [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C
